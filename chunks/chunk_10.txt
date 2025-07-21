@@ -1,0 +1,11 @@
+GJUHËSIA DHE DEGËT E SAJ 
+
+shpjegimi: Përpara se të kthehej në shkencë, gjuhësia ishte një mendim i përgjithshëm që u përfshi fillimisht në filozofi. 
+Në gjysmën e parë të shekullit XX gjuhëtarët bënë përpjekje serioze që gjuhësia të pranohej si disiplinë më vete shkencore me objektin dhe metodën e saj. Kështu, për shumë kohë, ajo u mbajt si një shkencë që merrej me studimin e gjuhës së shkruar dhe akteve normative të saj, kurse sot gjuhësia ka për objekt kryesor studimi, të folurin njerëzor; ajo studion gjuhën si sistem dhe ligjërimin si akt i shfaqjes individuale të folësit. 
+Kur folëm për gjuhën, thamë se ajo nuk është një liste fjalësh që mjafton t'i dish për ta folur dhe kuptuar atë. Gjuha është një sistem njësish (fomema, morfema, fjala, fjalia, fraza, teksti) dhe rregullash (njësitë gjuhësore kanë raporte të caktuara ndërmjet tyre). Ndërsa gjuha është një sistem (një kod), një tërësi e organizuar ndjenjash dhe konceptesh, ligjërimi është përdorim, vënia në praktikë e këtij sistemi a kodi prej fjalëve. 
+
+subtitle: Degët e gjuhësisë
+
+shpjegimi: Gjuhësia ka disa degë: fonetikën, fonologjinë, leksikologjinë dhe gramatikën. 
+Fonetika studion tingullin nga pikëpamja fonetike dhe akustike, kurse fonologjia merret me aspektin funksional të 
+tingujve. Leksikologjia studion leksikun (tërësinë e fjalëve) të një gjuhe, ndërsa gramatika është degë e gjuhësisë që merret me studimin e formave të ndryshme të fjalëve (morfologjia) dhe me rregullat e bashkimit të tyre në fjali (sintaksa).

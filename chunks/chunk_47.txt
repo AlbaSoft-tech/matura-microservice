@@ -1,0 +1,208 @@
+METRIKA
+
+shpjegimi: Metrika (nga greqishtja metros mase) ose (nga latinishtja versis- varg). Luigj Gurakuqi e përdorte edhe me studimin e vargut, duke filluar që nga lindja e tij në fjalën vargnim. Është një degë e teorisë së letërsisë që merret 
+Me lashtësinë antike e deri në ditët tona. Si e tillë, Metrika për objekt studimi ka origjinën e vargut, natyrën dhe ligjshmërinë krijuese të kësaj forme të veprave letrare, zhvillimin historik të llojeve dhe të varianteve të shumta të vargut, përgjithësisht si në letërsinë gojore, po ashtu në atë 
+të shkruar. Meqë të gjitha veprat letrare shkruhen dhe komunikojnë 
+ose në formën e vargut, ose në atë të prozës, nga ana pamore nuk është aspak e vështirë të dallohet se proza shtrihet mbi gjithë sipërfaqen e letrës, pra, është e afërt me gjuhën e komunikimit të përditshëm, kurse vepra letrare në poezi shihet vetëm në një pjesë të faqes dhe fjalitë në të nuk përfundojnë, duke u radhitur deri në fund të faqes, po ato shpesh thyhen përgjysmë dhe qëllon që mesi i fjalisë të dalë si varg i ri i poezisë; 
+Elementet kryesore mbi të cilët ndërtohet vargu në një vepër letrare janë: ritmi, rima, theksi ritmik, rrokja etj. Meqë vetë natyra e tingujve dhe e fjalëve të një gjuhe të caktuar është e veçantë dhe dallon nga ajo e gjuhëve të tjera, del se edhe ligjshmëritë mbi ndërtimin e vargut janë të veçanta dhe dallojnë në poezinë e një gjuhe, nga poezia e një gjuhe tjetër. Të marrim vetëm një shembull: psh. Veçori e ndonjë gjuhe është kur zakonisht theksohet rrokja e fundit e fjalës, kurse për një gjuhë tjetër është karakteristike theksimi i rrokjes së parafundit. Prandaj edhe metrika e poezisë së një gjuhe ka veçoritë dalluese nga metrika e poezisë së një gjuhe tjetër. Në poezinë shqipe kemi tri lloje vargjesh: 
+Varg popullor; varg të huazuar dhe varg të krijuar. Nga vetë përvoja jonë krijuese, rol vendimtar në ndërtimin e vargut luajnë numri i rrokjeve në varg dhe renditja rrokjeve të theksuara dhe të patheksuara. 
+Dega e teorisë së letërsisë që merret me studimin e vargut në letërsinë e epokës antike greko-romake ka qenë shumë e 
+zhvilluar. Aso kohe, kjo degë ka qenë ngritur në një sistem të përsosur dhe si e tillë konsiderohej vendimtare për punën krijuese të poetit. Vetë termi metrikë që rrjedh nga greqishtja e vjetër metron-masë, metër, emërton njësinë e vargut të përbërë nga disa rrokje. Bazë themelore e tërë sistemit metrik grek ka qenë gjatësia dhe shkurtësia e kohës për të shqiptuar një rrokje dhe mënyra e renditjes së rrokjeve të gjata dhe rrokjeve të shkurtra. Rrokja e gjatë ka pasur vlerën e dy të shkurtrave dhe quhej arsi. Shenja me të cilën dallohej kjo rrokje ishte në formën e një vijëze horizontale (-). Rrokja e shkurtër, që është sa gjysma e së gjatës, e që quhet mora shënohej me nje hark. Në poezinë antike greke njësia më e vogël nuk ka qenë harku, po këmba. Ajo ka qenë një tërësi e përbërë prej tri rrokjesh, një e gjatë e dy të shkurtra ose një e shkurtër e dy të gjata, ose më rrallë edhe prej dy rrokjesh të gjata, përkatësisht prej dy rrokjeve të shkurtra. Kështu ka ekzistuar varg dykëmbësh, trekëmbësh, Bagjashtëkëmbësh etj. Kurse sot kemi varg katërrokësh, Mod pesërrokësh, tetërrokësh etj. Sistemi dhe kombinimi i këmbëve në vargun e poezisë antike ka qenë i komplikuar. Njihen mëse tridhjetë kombinime të ndryshme midis rrokjeve të gjata dhe të shkurtëra, emrat e së cilës ruhen edhe sot në metrikën e të gjitha gjuhëve të botës. Disa nga këmbët më të njohura dhe më karakteristike të metrikës antike greke janë: trokeji, jambi, daktili, amfibrau, anapesti, spondeu, piriku, etj. 
+Veprat madhore të Homerit lliada dhe Odisea, mandej Eneida e Virgjilit, janë shkruar me vargun heksametrik, që do të thotë gjashtëkëmbësh. Lloji i këtij gjashtëkëmbëshi të 
+njohur është tipik daktilik: çdo këmbë ka tri rrokjet e para të gjata dhe të tjerat të shkurtra. Sipas sistemeve të sotme të metrikës, ky varg del tetëmbëdhjetërrokësh, ku çdo rrokje e parë, e katërt, e shtatë, e dhjetë, e trembëdhjetë, e gjashtëmbëdhjetë është e gjatë, përkatësisht sipas së sotmes, e theksuar. Haksametri ka qenë vargu më i përdorur dhe më autoritar në poezinë antike greke dhe në atë romake. 
+Që në shekullin e tretë dhe të katërt të kohës sonë edhe metrika antike filloi të humbë nga karakteristikat e saj. Kështu lindi edhe sistemi tonik, sistemi silabik dhe sistemi toniko-silabik. Në këto sisteme të metrikës është më e rëndësishme kualiteti i rrokjeve të theksuara apo të patheksuara. Sistemi tonik mbështetet në rrokjet e theksuara dhe të patheksuara, kurse ai toniko-silabik, mbështetet edhe në numrin e rrokjeve të vargut. I tille është sistemi i metrikës dhe në poezinë tonë. Kështu vargu në poezinë shqipe ndërtohet edhe në bazë të numrit të rrokjeve, por edhe në bazë të pozicionit që kanë ato në varg. 
+
+subtitle: Ritmi
+
+shpjegimi: Me ritëm kuptojmë të përsëriturit në intervale kohe të barabarta të një fenomeni apo të dukurie të caktuar në jetë dhe në natyrë. Kështu në mënyrë ritmike kryhet procesi i frymëmarrjes, rrahja e zemrës së njeriut dhe e kafshëve; në mënyrë ritmike ndjekin njëra-tjetrën stinët e motit, baticat dhe zbaticat, nata dhe dita, etj. Kjo lëvizje ritmike ekziston vetvetiu, si cilësi e përhershme e natyrës dhe e jetës së njeriut, por njeriu, në formë të organizuar, e vuri atë në shërbimin praktik gjatë përditshmërisë. Që në lashtësinë më të hershme, njeriu e ndjeu se edhe procesi i punës, kur organizohet përmes një veprimi ritmik, kur lëvizja e gjymtyrëve bëhet sipas një përsëritjeje të barabartë kohore, duket më i lehtë. 
+Të shqiptuarit ritmik në poezi rezulton me efekte të llojllojshme kuptimore dhe emocionale dhe ndikon në botën e brendshme të njeriut,. Psh., në vargjet e një marshi ushtarak, 
+revolucionar e luftarak, përveç përmbajtjes së tekstit, në botën 
+emocionale të njeriut ndikon dhe ritmi, pra, përsëritja e barabartë dhe harmonike e njësive kuptimore dhe melodike të tekstit. Nuk është e rastit që melodi të tilla, me frymën revolucionar dhe luftarake, shërbejnë ndër të tjera edhe në rregullimin e lëvizjeve harmonike të ushtarëve, si në ecje, 
+algjimnastikë etj. Kështu, për shembull, ritmi që arrihej nëpërmjet rrokjeve Boma të theksuara, të përsëritura simetrikisht, (përsëritja e rrokjes unda X së parë, të tretë, të pestë, të shtatë në një varg) krijojnë një disponim të theksuar emocional dhe estetik. Simetria dhe harmonia janë veçori të natyrës të së bukurës në jetë dhe në 
+botën e njeriut, pra, janë dhe aspekte estetike të një objekti 
+apo të një fenomeni.
+
+subtitle: Theksi tonik
+
+shpjegimi: Fjalët e gjuhës shqipe që kanë më shumë se një rrokje, ashtu si fjalët e çdo gjuhe tjetër, kanë një rrokje ku i mëshohet më han tepër zërit. Këto rrokje të fjalës, që i shqiptojmë më me 92 i intensitet se rrokjet e tjera, quhen rrokje të theksuara. di Theksimi i rrokjeve arrihet me anë të theksit, pra, shqiptimit Sin më me zë më të fortë të një zanoreje. Ky quhet theksi i fjalës ose theksi tonik i fjalës. Kështu fjalët liri, mali, fusha etj. kanë një theks tonik në rrokjet ri, ma, fu, që do të thotë se në këto mirrokje ne e ngremë më tepër zërin se në rrokjet e tjera dhe Sliprandaj këto rrokje të theksuara i quajmë theksa tonikë. Me dots rëndësi është të dimë se në gjuhën shqipe theksi i fjalës mbetet piq në të njëjtën rrokje edhe kur fjala merr pjesë të tjera, si për as shembull: mal, mali, maleve, theksi në të trija rastet bie në b carrokjen ma. Kur theksi bie në rrokje të tjera, e njëjta fjalë merr kuptime të ndryshme. Kur te fjala bari theksojmë rrokjen ba - kemi kuptimin bari, bimë që e hanë kafshët, ndërsa kur theksojmë rrokjen ri - kemi një kuptim tjetër ( limin bari -u, njeriu që mban dhentë). Po kështu, për shembull, 
+kemi fjalën bar dhe bari, drejtor dhe drejtori, punëtor dhe ale punëtori etj., ku për secilin rast me ndyshimin e vendit të 
+theksit, kemi një semantike tjetër (drejtor, njeriu që drejton, 
+drejtori, vendi ku vepron drejtori). 
+Natyrisht, theksi mund të lëvizë prej vendit në raste të 
+veçanta, atëherë kur e ndërron kuptimin e fjalës. 
+Fjalët në gjuhën shqipe kanë një theks tonik, marrin edhe emra sipas këtyre theksave. Kështu dallojme tri lloj fjalësh, fjalë oksitone, fjale paroksitone dhe fjalë proparoksitone, ose fjalë me theks oksiton (fundor), me theks proparoksiton (tejfundor). Mirëpo, duhet të dimë se numërimi i rrokjes së theksuar të fjalës fillon nga rrokja e fundit, jo nga rrokja e parë. Kështu tek fjala liri theksi bie në rrokjen e parë nga fundi - ri dhe është fjalë oksitone, në fjalën guri theksi bie në rrokjen e dytë - gu dhe është paroksitone; dhe në fjalën hekura theksi bie në rrokjen e tretë - he dhe fjala është proparoksitone. 
+
+subtitle: Theksi ritmik
+
+shpjegimi: Meqë vargu është njësia më e vogël e poezisë, ajo është e natyrshme se ka ritëm në tërësinë e vet, pra, brenda vargut  ka vende të caktuara, ku i mëshojnë më tepër zërit. Prandaj, vendet e caktuara brenda vargut, ku i mëshojnë më shumë zërit se në rrokjet e tjera, krijojnë ritmin e vargut, që ndryshe i themi theks ritmik i vargut. Në ndryshim nga fjala që ka vetëm një theks tonik, të vargu kemi më shumë theksa ritmikë të vargut. 
+Secili varg ka strukturën e caktuar të theksave ritmikë përmes të cilave arrihet një efekt ideoemocional shumë i lartë. Natyrisht, që të jetë simetria e harmonia dhe efekti ideoemocional sa më i lartë, nga poeti kërkohet që të përpiqet t'i përputhë theksat ritmike me theksat tonike, pra që theksi i vargut të bjerë mbi theksin e fjalës, siç është rasti në këto dy vargje të Naim Frashërit në vjershën Fjalët e qiririt. 
+Do të shkrihem të venitem 
+Si kandili kur s'ka vaj. 
+Siç shihet në këto dy vargje tetërrokëshe theksat ritmikë bien në rrokjet 3 dhe 7 ( në rrokjet shkri dhe ni në vargun e parë dhe di e vaj në vargun e dytë); këto përputhen plotësisht 
+me theksat tonike, pasi po në këto rrokje bien edhe theksat tonike të fjalëve. Mirëpo, përkundrejt këtij fakti, kemi edhe raste, kur nuk ekziston një përputhje e tillë, pra, kur theksat ritmike nuk bien mbi theksat tonikë dhe atëherë kemi dhunimin e vargut. Kështu ndodh te këto dy vargje të vjershës Vaje të Çajupit: 
+Ditën e vitit të parë U bë qameti i madh. Theksat ritmikë bien në rrokjet 1,4,7 (vargu i parë) dhe 2,5,7, (vargu i dytë), që do të thotë se vargu është i dhunuar, theksat ritmikë të vargut tetërrokësh bien në rrokjet tek e jo çift, siç kemi rastin tonë (rrokja e 4-të, vargu i parë; rrokja e 2-të, vargu i dytë). Megjithatë, ky fenomen nuk duhet marrë vetëm si dhunim i vargut, pasi ka poetë, që përmes këtij dhunimi e thyejnë monotoninë ritmike e të njëtrajtshme të vargut dhe arrijnë kështu efekt emocional. 
+Duhet të dimë se vargjet e marrin emrin jo vetëm sipas numrit të rrokjeve, por edhe sipas fjalës me të cilën mbaron vargu. Prandaj dallojmë vargje oksitone, paroksitone, proparoksitone. Numërimi i rrokjeve në vargjet e këtij tipi nuk bëhet njëlloj. Vargjet oksitone numërohen një rrokje më shumë, vargjet proparoksitone numërohen me po aq rrokje sa ka vargu dhe vargjet proparoksitone numërohen një rrokje më pak nga vargu. Kështu për shembull, në vargjet popullore: 
+1. Ndoc Ded Marku u ka pri 
+2. Kraharore e kam shpuar. 
+3. Hangra bar o malevet. 
+Kemi vargun e parë oksiton dhe konsiderohet si tetërrokësh (7-1) edhe pse shtatë rrokje, vargu i dytë është paroksiton dhe numërohet si tetërrokësh sa dhe ka, ndërsa vargu i tretë është proparoksiton dhe konsiderohet si gjashtërrokësh (7-1) edhe pse ka shtatë rrokje. 
+Në disa procedura ritmike këngëtari popullor ka tendenca që vargjeve proksitone gjashtërrokëshe t'iu shtojë një ë në 
+fund, duke i bërë vargjet oksitone dhe duke kthyer vargun gjashtërrokësh në varg tetërrokësh. Kështu ka vepruar dhe Çajupi, gjë që tregon se ai ka ndenjur shumë afër metrikës 
+popullore. Kështu tek vargjet e Çajupit: 
+Bir, o djalë i vetëmë, Se ç'më nxive jetënë Kemi dy vargje oksione që numërohen si teterrokëshe (7-1), e në të vërtetë po të shkruheshin gramatikisht në rregull (vetëm e jo vetëmë dhe jetën e jo jetënë) do të kishim vargje 
+gjashtërrokëshe. 
+
+subtitle: Rima
+
+shpjegimi: Rimë është përsëritja e të njëjtave zanore dhe bashketingëllore, 
+pra përsëritja e rrokjeve të theksuara në fund të dy a me shumë vargjeve, si p.sh. në vjershën Fyelli i bariut të N. Frashërit: 
+Bariu, shokë, bariu 
+Kur gjëmon e fryn veriu... 
+Në bazë të vendit që ka rrokja e theksuar e fjalës në fund të vargut, ka rimë mashkullore, femërore dhe daktilike. Kur e rrokjes së fundit si në vjershën theksimin 
+vargu 
+mbaron me 
+e Fan S. Nolit Anës lumenjve. 
+Ky ilaç e ky kushtrim 
+Më bën djal' e më bën trim... 
+kemi rimë mashkullore. Kur është e theksuar rrokja e 
+parafundit: 
+Që ditën që vdiqe, që kur s'të kam parë 
+Lotët që kam derdhur s'më janë tharë... 
+kemi rimë femërore. Kur theksi bie dy rrokje para fundit si: 
+erdhi Maji, muaji i buzëqeshjeve 
+kemi rimë daktilike. 
+Rima mund të jetë e puthur, e alternuar dhe e kryqëzuar, si 
+p.sh.: 
+Atdhe quhet toka 
+Ku më ka rënur koka... 
+Shembull të rimës së alternuar kemi në këto vargje të Naimit: 
+Sa det i madh e i gjerë Edhe sa mijëra valë, Secili atje do të bjerë Prapë soje do të dalë. Rimë e kryqëzuar është ajo në vjershën: Liria të Ndre Mjedës: 
+Por nuk u shuejt edhe, jo shqyptaria Lodhun prej hekrash që mizori i njiti Lodhun prej territ ku robnimi i qiti Shpreson me e zgjue flutnim mënia... 
+
+subtitle: Soneti ose tingëllima
+
+shpjegimi: Kjo lloj strofe në fakt është një vjershë më vete. Në letërsinë botërore Petrarka, poeti i madh italian, mbahet si krijues i sonetit. Po kështu janë të njohura dhe sonetet e Bodlerit Lulet 
+e të keqes. Në poezinë tonë të traditës e ka përdorur me shumë sukses Mjeda në poemat Scodra dhe Lissus. Tingëllima në poezinë tonë ka traditë të pasur. I pari që shkroi tingëllimën është Nikollë Keta (1742-1803). Soneti shkruhet edhe në poezinë tonë të sotme, edhe pse më rrallë. Ja dy shembuj: 
+
+subtitle: Vargjet e thyera
+
+shpjegimi: Këtë tip vargu po ashtu e hasim shpesh në rastet kur poeti e thyen vargun e rregullt me qëllim që, duke veçuar një fjalë, një pjesë të vargut të ri, vë në pah dhe thekson diçka të rëndësishme, duke krijuar në radhë të parë vlera të reja 
+emocionale. Ja një shembull i vargut të thyer: 
+Shekujt mbi ne 
+E në ne 
+E mbushën jetën plot vnerë 
+Që pezmi 
+E zjarri kryengritës 
+Ndër zemrat tona m'u ngri 
+Që njeriu mos të jete - Njeri:
+Emnit 
+na zhduket përherë 
+Në natën e errët 
+Të shekujve 
+Në natën plot errësirë... 
+
+
+subtitle: Vargjet popullore 
+
+shpjegimi: Vargjet popullore së pari, janë krijuar në letërsinë gojore e më pas në letërsinë e shkruar. Vargjet popullore janë ato me numër çift të rrokjeve: katërrokëshi, gjashtërrokëshi, tetërrokëshi dhe dhjetërrokëshi. 
+Kollozhegu 
+Djegë shtegu... 
+Ky varg është përdorur edhe në poezinë e shkruar. Me sukses e ka përdorur Naim Frashëri në vjershën Fjalët e qiririt 
+Do të shkrihem 
+Të venitem 
+Si kandili 
+Kur s'ka vaj 
+Përdoret edhe si gjysmë varg: P.sh., te Çajupi në vjershën 
+Shqipëtar: Shqipërin' e mori turku 
+i vu zjarrë
+Ku zakonisht theksohet rrokja e tretë... 
+Gjashtërrokëshi është varg më i përhapur, haset në vargjet nie lirikës popullore, veçanërisht në valle. Theksi ritmik ndryshon. Më i shpeshti është 2-5 dhe 1-5 p.sh.: 
+Ja thona një valle. 
+Me dert' e me halle. 
+Haset edhe në poezinë e shkruar. Me këtë varg Çajupi 
+shkroi poezinë Fshati im: 
+Maletë me gurë 
+Fushat me bar shumë 
+Aratë me grurë 
+Më tutje një lumë..... 
+Tetërrokëshi është vargu më i përhapur në poezinë tonë popullore dhe të shkruar. Ky varg ka mundësi të mëdha shprehëse, prandaj e hasim edhe në këngët e trimërisë dhe te lirikat. Po ashtu e kanë përdorur edhe poetët tanë më të dalluar si: Naimi, De Rada, Çajupi dhe mjaft poetë të ditëve tona.: 
+Evropa shkruajnë e thonë ç'është kështu që dëgjojmë bëhet dyfek në Vlorë shqipëtarët luftojnë 
+me një mbret dyzetë milionë... 
+Te Fjalët e Qiririt Naimi ka përdorur tetërrokëshin: 
+Në mes tuaj kam qëndruar 
+e jam duke përvëluar 
+që t'u jap pakëz dritë 
+natën t'ua bëjë ditë. 
+Edhe Noli në vjershën Anës lumenjve e ka përdorur me sukses vargun tetërrokësh: 
+Ky ilaç e ky kushtrim 
+Më bën djalë, e më bën trim...
+Dhjetërrokëshi po ashtu është përdorur në poezinë popullore, më pak se dy të parët. E hasim kryesisht në epikën e Veriut e sidomos në ciklin e Mujit e të Halilit. Po me këtë varg është krijuar edhe balada legjendare Gjergj Elez Alia: 
+Trim mbi trim ky Gjergj Elez Alia 
+Që nand vjet nand varre n'shtat m'i ka Veç një motër nat' e dit te kryet 
+la lan varret me ujtë e gurrës nand vjeçe... 
+Ky varg ka përdorim të gjerë edhe në poezinë e shkruar. E ka përdorur Noli te vjersha Moisiu në mal, Mjeda te poemthi Andrra e jetës etj. Është varg që haset shpesh edhe në poezinë tonë të sotme. Skema më e shpeshtë e theksimit është: (3-5- 7-9), (1-4-7-9) etj. 
+ 
+subtitle: Vargjet e huazuara
+
+shpjegimi: Vargje të huazuara quajmë vargjet që poetët tanë i kanë huazuar nga metrika e huaj. Këta janë vargjet pesërrokësh, shtatërrokësh, 
+nëntërrokësh dhe njëmbëdhjetërrokësh, që tani janë bërë krejtësisht vargje të metrikës sonë. Shumë rrallë përdoret edhe vargu trimrokësh. Ja një shembull nga vjersha Pamje vjeshte e Asdrenit: 
+Shkoi vera Si hije Fryn era 
+Shi bie 
+Lart qielli Si plumbi Shkoi dielli 
+Na humbi. 
+Pesërrokëshi, si varg i shkurtër, po ashtu nuk ka përdorim të gjerë. Më shpesh është përdorur në të kaluarën, sidomos prej rilindësve. Kështu Mjeda e ka përdorur te poezia Vaji i Bylbylit. 
+Kurkush ma hovin 
+Atje sta pret, me zeher hajen Kurkush s'ta qet.. 
+Si dhe Naimi te poezia Shpreh 
+Pa vjen një ditë 
+që të na sjellë të madhe dritë q'ajo te pjellë qytetërinë 
+fatbardhësinë... 
+Shtatërrokëshi, edhe pse më i shpeshtë se pesërrokëshi, përsëri mbetet varg me përdorim jo shumë të gjerë. E kanë përdorur Kristoforidhi, Mjeda e ndonjë tjetër. E hasim në disa strofa të poemthit Andrra e jetës. vuni do krande n'votër 
+e fryni n'zjarr q'ish ndalë thej pshesh me tambël valë e mbushi kupat plot. E hangri Zoga shishëm 
+01-- Por Tringa s'hangri gja 
+As Lokja q'ishte vra 
+Mbas çikes s'hangri dot... 
+Vargun shtatërrokësh e hasim nganjëhere edhe në poezinë 
+e sotme. 
+Nëntërrokëshi është po ashtu vargu i hazuar që nuk është përdorur shumë nga poetët tanë. Me këtë varg e ka shkruar Lasgush Poradeci vjershën Gjeniu i anjjes: 
+Ti det, brohori fshehtësirë! 
+Kuptim i potershëm, ti det! 
+... Po, heshtje. Ndaj valës së nxirë 
+gjeniu i anijes po flet... 
+Nëntërrokëshin e hasim edhe në poezinë tonë më të re. Ja një shembull nga vjersha Lakuriqët e natës të I. Kadaresë: 
+Në qiejt e bukur e të pastër Duke lëvizur krahët heshtur Shpesh enden lakuriqët e natës 
+Si ëndrra të një muzgu tjetër... 
+Sistemi i theksit ritmik zakonisht është ky: 2-5-8, 2-6-8 etj. Njëmbëdhjetërrokëshi është vargu me historinë më të vjetër në poezinë shqiptare, me të cilën është shërbyer edhe Pjetër 
+Bogdani në shek. XVII. Është vargu klasik i soneteve në poezinë italiane dhe vargu më i përdorur. E kanë huazuar poetët e parë rilindës si: P. Zarisha, De Martino dhe e ka përsosur Mjeda sidomos te soneti Lirija. 
+Me këtë varg është shkruar vjersha Korriku nga L. 
+Poradeci: 
+Një afsh i dendur avullon në erë. 
+Po përvëlon një diell posi prushi 
+U poq kajsia. Bari është i prerë. 
+Rri në shullë fatlum një zog ardhushi... 
+Ka rënë heshtja posi frymë e dehur 
+M'i çdo blerim e m'i çdo gjë të gjallë Ku ja, se pylli dridhet papandehur: 
+Në lisa larg, po cicërin gjinkalla! 
+Sistemi më i shpeshtë i theksit ritmik është ky: 4-7-10,4-8- 10,4-6-10, etj. Përmendim se me këtë varg i ka përkthyer Noli veprat e Shekspirit dhe veprat e.tjera nga letërsia botërore. Shumë më rrallë mund të haset edhe vargu trembëdhjetërrokësh. 
+Me këtë varg është shkruar vjersha e Nolit, Marshi i Barabajt 
+Allall, o rezil e katil, allalla. 
+Shtroni udhën me hithr' e me shtok turfanda, Gumëzhit, o zinzhir, e kamçik baterma, 
+Lehni, laro, kaha, Hosanna Baraba! 
+Aleksandrini është varg katërmbëdhjetërrokësh që shfaqet nën ndikimin e poezisë frënge. Në poezinë shqipe shfaqet vonë dhe u përdor nga Asdreni, Poradeci, Shuteriqi, etj. Më së shpeshti theksohen këto vargje : 2-4.6-9-11-13. Ja si duket vargu aleksandrin në vjershën Kënga pleqerishte e L. Poradecit: 
+O këngë pleqërishte! O vjersh' e vendit t'em! O fjalë që më dhimbsesh, e që më bën ujem! 
+O mal! O psherëtime! O vaje! - O lot i zi! 
+O shpirt i përvëluar që qan nër syt e mi! 
+Si ngrihet që nga deti një valë e dëshëruar. 
+Nga fund' i zemrës sate ti ngrihesh duke vuar: 
+E prapë posi vala që bie sërish në det: Ti bije fellësirën e zëmbërës së vet. 
+
+subtitle: Vargjet e krijuara
+
+shpjegimi: Në këtë kategori fusim vargjet e krijuara nga vetë poetët tanë. Këto vargje krijohen kur i bashkojmë njëri me tjetrin dy vargje të një gjatësie ritmike. Për shembull Çajupi në poezinë e tij Vaje, përdori dymbëdhjetërrokëshin si rezultat i bashkimit të dy gjashtërrokëshve. Ky varg njihet edhe nga krijuesi popullor. Përveç dymbëdhjetërrokëshit kemi edhe vargun gjashtëmbëdhjetërrokësh, që e hasim te poemthi i Naim Frashërit, Bagëti e Bujqësia: 
+Kur dëgjon zëthin e s'ëmës, qysh e le qingji kopenë Blegërinë dy a tri herë edhe ikën e merr dhenë Edhe në i prefshin udhën njëzet a tridhjetë vetë 
+E ta trembin ay s'kthehet po shkon n'mest si shigjetë 
+Ashtu edhe zemra ime më le këtu tek jam, mua Vjen me vrap e me dëshirë aty në viset e tua... 
+Po këtë varg e ka përdorur edhe L.Poradeci në poezinë Poradeci: 
+Perëndim i vagëlluar mbi liqenin pa kufi 
+Po përhapet dalngadalë një pëlhurë si një hije... 
+Kombinime që bashkojnë dy vargje rrokjesh të ndryshme mund të hasen edhe në letërsinë gojore. Ka edhe bashkime të vargjeve të tjera që nuk i përmendëm, si për shembull tetërrokëshi me gjashtërrokëshin, etj.
