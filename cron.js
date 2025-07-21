@@ -6,7 +6,7 @@ const job = new CronJob('*/14 * * * *', function () {
     data: "kush eshte naim frasheri"
   });
 
-  const url = new URL("https://rag-microservice-w2su.onrender.com"); 
+  const url = new URL(process.env.MICROSERVICE_URL); 
 
   const options = {
     hostname: url.hostname,

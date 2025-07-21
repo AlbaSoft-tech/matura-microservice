@@ -113,5 +113,5 @@ const ingestDocumentsForLanguage = async () => {
   }
 };
 
-await ingestDocumentsForLanguage();
+//await ingestDocumentsForLanguage();
 export default rag;
