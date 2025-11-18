@@ -1,12 +1,15 @@
 import { CronJob } from "cron";
 import https from "https";
+import dotenv from "dotenv";
 
-const job = new CronJob('*/14 * * * *', function () {
+dotenv.config();
+
+const job = new CronJob("*/14 * * * *", function () {
   const data = JSON.stringify({
-    data: "kush eshte naim frasheri"
+    data: "kush eshte naim frasheri",
   });
 
-  const url = new URL(process.env.MICROSERVICE_URL); 
+  const url = new URL(process.env.MICROSERVICE_URL);
 
   const options = {
     hostname: url.hostname,
@@ -20,10 +23,12 @@ const job = new CronJob('*/14 * * * *', function () {
   };
 
   const req = https.request(options, (res) => {
-    let response = '';
-    res.on("data", (chunk) => response += chunk);
+    let response = "";
+    res.on("data", (chunk) => (response += chunk));
     res.on("end", () => {
-      console.log(`POST sent. Status: ${res.statusCode}, Response: ${response}`);
+      console.log(
+        `POST sent. Status: ${res.statusCode}, Response: ${response}`
+      );
     });
   });
 
