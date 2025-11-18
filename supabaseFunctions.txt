@@ -1,0 +1,65 @@
+-- enable pgvector extension
+create extension if not exists vector;
+
+-- Albanian documents
+create table if not exists public.documents_albanian (
+  id uuid primary key default gen_random_uuid(),
+  content text,
+  embedding vector(768)
+);
+
+-- Macedonian documents
+create table if not exists public.documents_macedonian (
+  id uuid primary key default gen_random_uuid(),
+  content text,
+  embedding vector(768)
+);
+
+
+alter table public.documents_albanian
+add column metadata jsonb default '{}' not null;
+
+alter table public.documents_macedonian
+add column metadata jsonb default '{}' not null;
+
+create or replace function public.sematic_search_albanian(
+  query_embedding vector(768),
+  similarity_threshold float,
+  match_count int
+)
+returns table(
+  id uuid,         -- <-- changed from bigint
+  content text,
+  metadata jsonb,
+  similarity float
+)
+language sql
+as $$
+  select id, content, metadata,
+         1 - (embedding <#> query_embedding) as similarity
+  from public.documents_albanian
+  where 1 - (embedding <#> query_embedding) >= similarity_threshold
+  order by similarity desc
+  limit match_count;
+$$;
+
+create or replace function public.sematic_search_macedonian(
+  query_embedding vector(768),
+  similarity_threshold float,
+  match_count int
+)
+returns table(
+  id uuid,         -- <-- changed from bigint
+  content text,
+  metadata jsonb,
+  similarity float
+)
+language sql
+as $$
+  select id, content, metadata,
+         1 - (embedding <#> query_embedding) as similarity
+  from public.documents_albanian
+  where 1 - (embedding <#> query_embedding) >= similarity_threshold
+  order by similarity desc
+  limit match_count;
+$$;
